@@ -9,10 +9,7 @@ Disclaimer: For optimal performance and compatibility, it is recommended to use 
 What you’ll do
 You have multiple tasks in this lab:
 
-Generate output in the shell the echo command
-
-Perform basic calculations the expr command
-
-Clear the shell window the clear command
-
-Explore the commands further
+- Generate output in the shell the echo command
+- Perform basic calculations the expr command
+- Clear the shell window the clear command
+- Explore the commands further
