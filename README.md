@@ -1,4 +1,4 @@
-# Shell
+# Shell Lab
 <h2>Examine input and output in the shell</h2>
 
 Introduction
